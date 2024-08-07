@@ -1,0 +1,2 @@
+# simpleFast
+fastAPI personal application
